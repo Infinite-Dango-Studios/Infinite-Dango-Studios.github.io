@@ -1,6 +1,6 @@
 # Site settings
 title: Infinite Dango Studios
-#email: yoursite@site.com
+email: infinitedangostudios@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Infinite Dango Studio is a game devlopment studio that is currently working on the development of the open source, visual novel Ganbatte.
 baseurl: "" # the subpath of your site, e.g. /blog/
