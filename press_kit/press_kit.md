@@ -2,6 +2,7 @@
 layout: page
 title: Press Kit
 permalink: /press_kit/
+on_header: yes
 ---
 
 # Description
