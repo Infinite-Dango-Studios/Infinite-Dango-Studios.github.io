@@ -47,7 +47,7 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 
 **Website:**
 
-- [infinite-dango-studios.github.io](infinite-dango-studios.github.io)
+- [infinite-dango-studios.github.io](https://infinite-dango-studios.github.io/)
 
 **Press / Business contact:**
 
