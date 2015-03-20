@@ -9,3 +9,4 @@ on_header: yes
 
 # Links
 - [Images & Screenshots](/ganbatte/images/)
+- [Facebook page](https://www.facebook.com/GanbatteVisualNovel)

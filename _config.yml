@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://infinite-dango-studios.github.io/" # the base hostname & protocol for your site
 #twitter_username: twitter-username-here
 github_username:  Infinite-Dango-Studios
+facebook_username:  GanbatteVisualNovel
 
 # Build settings
 markdown: kramdown
