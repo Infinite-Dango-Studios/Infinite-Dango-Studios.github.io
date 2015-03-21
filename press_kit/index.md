@@ -55,4 +55,4 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 
 **Social:**
 
-- Under Constuction
+- Facebook: [GanbatteVisualNovel](https://www.facebook.com/GanbatteVisualNovel)
