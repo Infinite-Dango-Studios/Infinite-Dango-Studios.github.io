@@ -10,3 +10,6 @@ on_header: yes
 # Links
 - [Images & Screenshots](/ganbatte/images/)
 - [Facebook page](https://www.facebook.com/GanbatteVisualNovel)
+- [GitHub repository](https://github.com/Infinite-Dango-Studios/ganbatte)
+- [Build releases](https://github.com/Infinite-Dango-Studios/ganbatte/releases)
+- [Issue Tracker](https://github.com/Infinite-Dango-Studios/ganbatte/issues)
