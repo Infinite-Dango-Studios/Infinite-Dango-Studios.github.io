@@ -6,12 +6,12 @@ on_header: yes
 ---
 
 #Artists
-- boxesofflowers
-- ChocoTacoKitty
-- juanitaylor
+- [boxesofflowers](https://github.com/boxesofflowers)
+- [ChocoTacoKitty](https://github.com/ChocoTacoKitty)
+- [juanitaylor](https://github.com/juanitaylor)
 
 #Coders
-- ExcaliburZero
+- [ExcaliburZero](https://github.com/ExcaliburZero)
 
 #Writers
-- Sabre-Hecate
+- [Sabre-Hecate](https://github.com/Sabre-Hecate)
