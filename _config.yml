@@ -11,3 +11,6 @@ facebook_username:  GanbatteVisualNovel
 
 # Build settings
 markdown: kramdown
+
+#Stops issues with Travis CI
+exclude: [vendor]
