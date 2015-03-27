@@ -5,7 +5,7 @@ permalink: /press_kit/
 on_header: yes
 ---
 
-- [Description](/press_kit/#desciption)
+- [Description](/press_kit/#description)
 - [History](/press_kit/#history)
 - [Projects](/press_kit/#projects)
 - [Team](/press_kit/#team)
