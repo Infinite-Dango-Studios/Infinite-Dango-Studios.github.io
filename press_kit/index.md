@@ -9,6 +9,7 @@ on_header: yes
 - [History](/press_kit/#history)
 - [Projects](/press_kit/#projects)
 - [Team](/press_kit/#team)
+- [Logo & Icon](/press_kit/#logo--icon)
 - [Factsheet](/press_kit/#factsheet)
 
 # Description
@@ -34,6 +35,14 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 
 ## Writers
 - Sabre-Hecate
+
+# Logo & Icon
+- [Studio logo](/images/studio_logo.png)
+- [Studio icon](/images/studio_icon.png)
+
+{:.press-kit-image}
+![Infinite Dango Studios Logo](/images/studio_logo.png)
+![Infinite Dango Studios Icon](/images/studio_icon.png)
 
 # Factsheet
 **Developer:**
