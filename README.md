@@ -1,8 +1,8 @@
 # Infinite-Dango-Studios.github.io
 The website for Infinite Dango Studios.
 
-##Build Status
-[![Build Status](https://travis-ci.org/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io.png)](https://travis-ci.org/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io)
+##Repository Info
+[![Build Status](https://travis-ci.org/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io.png)](https://travis-ci.org/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io)[![Stories in Ready](https://badge.waffle.io/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io.png?label=ready&title=Ready)](http://waffle.io/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io)
 
 ## GitHub Repository
 The GitHub repository for the Infinite Dango Studios website is located at the following url:
