@@ -1,7 +1,9 @@
 language: ruby
 rvm:
 - 2.1
-script: jekyll build && htmlproof ./_site --check-favicon --verbose
+script:
+  - jekyll build
+  - bundle exec rake
 
 # branch whitelist
 branches:
