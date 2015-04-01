@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Press Kit
-permalink: /press_kit/
+permalink: /press-kit/
 on_header: yes
 ---
 
-- [Description](/press_kit/#description)
-- [History](/press_kit/#history)
-- [Projects](/press_kit/#projects)
-- [Team](/press_kit/#team)
-- [Logo & Icon](/press_kit/#logo--icon)
-- [Factsheet](/press_kit/#factsheet)
+- [Description](/press-kit/#description)
+- [History](/press-kit/#history)
+- [Projects](/press-kit/#projects)
+- [Team](/press-kit/#team)
+- [Logo & Icon](/press-kit/#logo--icon)
+- [Factsheet](/press-kit/#factsheet)
 
 # Description
 
@@ -21,7 +21,7 @@ Infinite Dango Studios is a game development studio based in the United States. 
 Infinite Dango Studios was founded in late January 2015. It started as a small group of highschoolers that consisted of two artists, a coder, and a writer. The four teamed up to work on developing a visual novel called 'Ganbatte'. They used the Ren'Py visual novel engine for the game. Eventually another artist and a composer joined the studio as well, to help on the development of Ganbatte.
 
 # Projects
-- [Ganbatte](/press_kit/ganbatte/)
+- [Ganbatte](/press-kit/ganbatte/)
 
 #Team
 
