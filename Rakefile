@@ -9,7 +9,7 @@ task :test do
 		:href_ignore => [
 			"#",
 		],
-		:disable_external => true,
-		:ext => ".html"
+		:verbose => true,
+		:check_favicon => true,
 	}).run
 end
