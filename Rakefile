@@ -5,9 +5,11 @@ require "html/proofer"
 task :default => [:test]
 
 task :test do
-	HTML::Proofer.new("dist/", {
+	HTML::Proofer.new("/.site/", {
 		:href_ignore => [
 			"#",
 		],
+		:disable_external => true,
+		:ext => ".html"
 	}).run
 end
