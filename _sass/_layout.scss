@@ -233,8 +233,6 @@
 
     h1 {
         font-size: 30px;
-        border-bottom: 1px solid #000000;
-        margin-top: 40px;
 
         @include media-query($on-laptop) {
             font-size: 32px;
@@ -243,6 +241,8 @@
 
     h2 {
         font-size: 28px;
+        border-bottom: 1px solid #000000;
+        margin-top: 40px;
 
         @include media-query($on-laptop) {
             font-size: 26px;

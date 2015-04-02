@@ -12,31 +12,31 @@ on_header: yes
 - [Logo & Icon](/press-kit/#logo--icon)
 - [Factsheet](/press-kit/#factsheet)
 
-# Description
+## Description
 
 Infinite Dango Studios is a game development studio based in the United States. It was founded in late January 2015.
 
-# History
+## History
 
 Infinite Dango Studios was founded in late January 2015. It started as a small group of highschoolers that consisted of two artists, a coder, and a writer. The four teamed up to work on developing a visual novel called 'Ganbatte'. They used the Ren'Py visual novel engine for the game. Eventually another artist and a composer joined the studio as well, to help on the development of Ganbatte.
 
-# Projects
+## Projects
 - [Ganbatte](/press-kit/ganbatte/)
 
-#Team
+##Team
 
-## Artists
+### Artists
 - boxesofflowers
 - ChocoTacoKitty
 - juanitaylor
 
-## Coders
+### Coders
 - ExcaliburZero
 
-## Writers
+### Writers
 - Sabre-Hecate
 
-# Logo & Icon
+## Logo & Icon
 - [Studio logo](/images/studio_logo.png)
 - [Studio icon](/images/studio_icon.png)
 
@@ -44,7 +44,7 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 ![Infinite Dango Studios Logo](/images/studio_logo.png)
 ![Infinite Dango Studios Icon](/images/studio_icon.png)
 
-# Factsheet
+## Factsheet
 **Developer:**
 
 - Infinite Dango Studios
