@@ -10,7 +10,7 @@ on_header: yes
 
 **Ganbatte** is a visual novel developed by Infinite Dango Studios. It follows high school graduate, Haruki Nishihara, as he spends his summer before college in the town of Maura. Its development began in late January 2015.
 
-# Links
+## Links
 - [Images & Screenshots](/ganbatte/images/)
 - [Facebook page](https://www.facebook.com/GanbatteVisualNovel)
 - [GitHub repository](https://github.com/Infinite-Dango-Studios/ganbatte)

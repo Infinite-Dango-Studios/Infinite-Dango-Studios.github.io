@@ -5,13 +5,13 @@ permalink: /staff/
 on_header: yes
 ---
 
-#Artists
+## Artists
 - [boxesofflowers](https://github.com/boxesofflowers)
 - [ChocoTacoKitty](https://github.com/ChocoTacoKitty)
 - [juanitaylor](https://github.com/juanitaylor)
 
-#Coders
+## Coders
 - [Christopher Wells (ExcaliburZero)](https://github.com/ExcaliburZero)
 
-#Writers
+## Writers
 - [Stephen Sesonske (Sabre-Hecate)](https://github.com/Sabre-Hecate)

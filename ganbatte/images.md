@@ -4,7 +4,7 @@ title: Ganbatte images
 permalink: /ganbatte/images/
 ---
 
-# Screenshots
+## Screenshots
 Please note that as Ganbatte is still in development, these screenshots are not fully representative of the final game.
 
 ![Ganbatte's main menu](/images/sc_01.png)
