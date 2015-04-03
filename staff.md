@@ -11,7 +11,7 @@ on_header: yes
 - [juanitaylor](https://github.com/juanitaylor)
 
 #Coders
-- [ExcaliburZero](https://github.com/ExcaliburZero)
+- [Christopher Wells (ExcaliburZero)](https://github.com/ExcaliburZero)
 
 #Writers
-- [Sabre-Hecate](https://github.com/Sabre-Hecate)
+- [Stephen Sesonske (Sabre-Hecate)](https://github.com/Sabre-Hecate)

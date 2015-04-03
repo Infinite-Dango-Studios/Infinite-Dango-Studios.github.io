@@ -31,10 +31,10 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 - juanitaylor
 
 ### Coders
-- ExcaliburZero
+- Christopher Wells (ExcaliburZero)
 
 ### Writers
-- Sabre-Hecate
+- Stephen Sesonske (Sabre-Hecate)
 
 ## Logo & Icon
 - [Studio logo](/images/studio_logo.png)
