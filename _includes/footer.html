@@ -55,6 +55,18 @@
           </li>
           {% endif %}
 
+          {% if site.googleplus_username %}
+          <li>
+            <a href="https://google.com/+{{ site.googleplus_username }}">
+              <div style="width: 16px; display: inline-block;">
+                <span class="icon  icon--googleplus"></span>
+              </div>
+
+              <span class="username">Google+</span>
+            </a>
+          </li>
+          {% endif %}
+
           <li>
             <a href="/feed.xml">
               <div style="width: 16px; display: inline-block;">
