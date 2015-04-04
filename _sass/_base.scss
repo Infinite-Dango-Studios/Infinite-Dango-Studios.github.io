@@ -45,6 +45,19 @@ img {
     vertical-align: middle;
 }
 
+/**
+ * Image Galleries
+ */
+.gallery-image img {
+    width: 100%;
+}
+
+.gallery-image td {
+   width: 33%;
+   text-align: center;
+   font-size: 80%;
+}
+
 
 
 /**
