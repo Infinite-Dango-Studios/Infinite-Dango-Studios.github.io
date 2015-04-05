@@ -9,6 +9,11 @@ The GitHub repository for the Infinite Dango Studios website is located at the f
 
 - https://github.com/Infinite-Dango-Studios/Infinite-Dango-Studios.github.io
 
+## Website URL
+The current URL at which this website is hosted is as follows:
+
+- https://infinite-dango-studios.github.io/
+
 ## Site Map
 ### Website
 - **/_includes/**
