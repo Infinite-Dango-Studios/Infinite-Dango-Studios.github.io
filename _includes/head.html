@@ -12,10 +12,6 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <meta itemprop="name" content="{{ site.title }}">
-  <meta itemprop="description" content="{{ site.description }}">
-  <meta itemprop="image" content="https://infinite-dango-studios.github.io/images/studio_logo.png">
-
   <script src="https://apis.google.com/js/platform.js" async defer></script>
 
   <script type="application/ld+json">
@@ -23,6 +19,8 @@
     "@type" : "Organization",
     "name" : "{{ site.title }}",
     "url" : "{{ site.url }}",
+    "description" : "{{ site.description }}",
+    "image" : "https://infinite-dango-studios.github.io/images/studio_logo.png",
     "sameAs" : [ "http://www.facebook.com/{{ site.facebook_username }}",
         "https://plus.google.com/+{{ site.googleplus_username }}"]
     }
