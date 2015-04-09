@@ -17,4 +17,14 @@
   <meta itemprop="image" content="https://infinite-dango-studios.github.io/images/studio_logo.png">
 
   <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+  <script type="application/ld+json">
+  { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "{{ site.title }}",
+    "url" : "{{ site.url }}",
+    "sameAs" : [ "http://www.facebook.com/{{ site.facebook_username }}",
+        "https://plus.google.com/+{{ site.googleplus_username }}"]
+    }
+  </script>
 </head>
