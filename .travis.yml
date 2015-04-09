@@ -5,11 +5,6 @@ script:
   - jekyll build
   - bundle exec rake
 
-# branch whitelist
-branches:
-  only:
-  - master     # test the master branch
-
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
