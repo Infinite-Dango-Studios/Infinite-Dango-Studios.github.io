@@ -20,9 +20,11 @@ The current URL at which this website is hosted is as follows:
    - footer.html - The code for the footer of the site.
    - head.html - The code for the HTML head tag of the site.
    - header.html - The code for the header of the site.
+   - structured_data.json - The code for the structured data used in the head of the website.
 - **/_layouts/**
    - default.html - The basic structure for all pages of the site.
    - page.html - The structure for pages of posts.
+   - post.html - The structure for post pages.
 - **/_posts/** - The blog posts that are on the website.
 - **/_sass/**
    - _base.scss - The basic css of the site.
