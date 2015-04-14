@@ -41,6 +41,7 @@ The current URL at which this website is hosted is as follows:
    - index.md - The main page for the press kit.
 - about.md - A page that explains what Infinite Dango Studios is.
 - _config.yml - Various site settings and variables.
+- contact.md - A page that includes basic contact information for the studio.
 - feed.xml - The rss feed for the blog posts.
 - index.html - The main site page.
 - robots.txt - A file that contains info for webcrawlers.
