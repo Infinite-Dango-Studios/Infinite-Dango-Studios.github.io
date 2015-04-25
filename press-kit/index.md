@@ -37,12 +37,12 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 - Stephen Sesonske (Sabre-Hecate)
 
 ## Logo & Icon
-- [Studio logo](/images/studio_logo.png)
-- [Studio icon](/images/studio_icon.png)
+- [Studio logo](/images/studio_logo_full.png)
+- [Studio icon](/images/studio_icon_full.png)
 
 {:.press-kit-image}
-![Infinite Dango Studios Logo](/images/studio_logo.png)
-![Infinite Dango Studios Icon](/images/studio_icon.png)
+![Infinite Dango Studios Logo](/images/studio_logo_full.png)
+![Infinite Dango Studios Icon](/images/studio_icon_full.png)
 
 ## Factsheet
 **Developer:**
