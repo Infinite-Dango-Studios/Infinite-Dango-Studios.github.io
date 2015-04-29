@@ -15,3 +15,6 @@ on_header: yes
 
 ## Writers
 - [Stephen Sesonske (Sabre-Hecate)](https://github.com/Sabre-Hecate)
+
+## Helpers
+- [Jarred Fink (TheStoryLord)](https://github.com/TheStoryLord)

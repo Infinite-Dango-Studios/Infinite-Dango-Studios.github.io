@@ -36,6 +36,9 @@ Infinite Dango Studios was founded in late January 2015. It started as a small g
 ### Writers
 - Stephen Sesonske (Sabre-Hecate)
 
+### Helpers
+- Jarred Fink (TheStoryLord)
+
 ## Logo & Icon
 - [Studio logo](/images/studio_logo_full.png)
 - [Studio icon](/images/studio_icon_full.png)
